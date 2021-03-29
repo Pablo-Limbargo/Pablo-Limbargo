@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pablo-Limbargo
+- 👋 Hi, I’m @Pablo
 - 👀 I’m interested in Music and Programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on some new projects
